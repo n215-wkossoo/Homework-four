@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+
+
+
+    height: 100%
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: 16px
+}
+
+
+@font-face {
+    font-family: GillSansregular;
+    src: url(../css/fonts/GillSans.ttf);
+}
+
+
+@font-face {
+    font-family: ProximaNova;
+    src: url(../css/fonts/Proxima_Nova_Reg.ttf);
+}
+
+
+@font-face {
+    font-family: GillSansItalic;
+    src: url(../css/fonts/GillSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: ProximaNovaExtraCondensed;
+    src: url(../css/fonts/ProximaNovaExtraCondensed.ttf);
+}
